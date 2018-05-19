@@ -1,4 +1,4 @@
-# Victor Hugo
+# La biere du jeudi
 
 **A Hugo boilerplate for creating truly epic websites**
 
